@@ -1,0 +1,2 @@
+# pooexception
+Tratando exceções
